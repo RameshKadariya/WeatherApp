@@ -30,8 +30,11 @@ A professional weather application that provides real-time weather updates for a
 
 ![Splash Screen]![image](https://github.com/user-attachments/assets/771ef269-3382-4ea1-8d94-219100c45547)
 
-![Main Screen](screenshots/main_screen.png)
-![About Me Screen](screenshots/about_me_screen.png)
+![Main Screen]![image](https://github.com/user-attachments/assets/d0d09b2b-47c4-4c97-9679-83755987bc44)
+
+
+![About Me Screen]![image](https://github.com/user-attachments/assets/96c3387c-c0f3-4983-8d74-9bc469ebf56f)
+
 
 ## Contact
 
