@@ -28,7 +28,7 @@ A professional weather application that provides real-time weather updates for a
 
 ## Screenshots
 
-![Splash Screen](screenshots/splash_screen.png)
+![Splash Screen](C:\Users\User\OneDrive\Desktop\Assnm for 1st\Splash.jpg)
 ![Main Screen](screenshots/main_screen.png)
 ![About Me Screen](screenshots/about_me_screen.png)
 
